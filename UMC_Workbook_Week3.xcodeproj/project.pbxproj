@@ -17,6 +17,7 @@
 		94F66AA529DF490A00A62057 /* UMC_Workbook_Week3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F66AA429DF490A00A62057 /* UMC_Workbook_Week3Tests.swift */; };
 		94F66AAF29DF490A00A62057 /* UMC_Workbook_Week3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F66AAE29DF490A00A62057 /* UMC_Workbook_Week3UITests.swift */; };
 		94F66AB129DF490A00A62057 /* UMC_Workbook_Week3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F66AB029DF490A00A62057 /* UMC_Workbook_Week3UITestsLaunchTests.swift */; };
+		94F66ABE29DF5F7A00A62057 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F66ABD29DF5F7A00A62057 /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		94F66AAA29DF490A00A62057 /* UMC_Workbook_Week3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UMC_Workbook_Week3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94F66AAE29DF490A00A62057 /* UMC_Workbook_Week3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UMC_Workbook_Week3UITests.swift; sourceTree = "<group>"; };
 		94F66AB029DF490A00A62057 /* UMC_Workbook_Week3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UMC_Workbook_Week3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		94F66ABD29DF5F7A00A62057 /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		94F66A7E29DF490900A62057 = {
 			isa = PBXGroup;
 			children = (
+				94F66ABD29DF5F7A00A62057 /* CalculatorBrain.swift */,
 				94F66A8929DF490900A62057 /* UMC_Workbook_Week3 */,
 				94F66AA329DF490A00A62057 /* UMC_Workbook_Week3Tests */,
 				94F66AAD29DF490A00A62057 /* UMC_Workbook_Week3UITests */,
@@ -264,6 +267,7 @@
 				94F66A8F29DF490900A62057 /* ViewController.swift in Sources */,
 				94F66A8B29DF490900A62057 /* AppDelegate.swift in Sources */,
 				94F66A8D29DF490900A62057 /* SceneDelegate.swift in Sources */,
+				94F66ABE29DF5F7A00A62057 /* CalculatorBrain.swift in Sources */,
 				94F66A9529DF490900A62057 /* UMC_Workbook_Week3.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
